@@ -1,0 +1,9 @@
+name: Text Written by Quintin Carlson
+url: http://quintincarlson.github.com
+description: An emotional bucket of words, loosly organized.
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
